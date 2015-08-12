@@ -1,4 +1,4 @@
-V. Havranekâ's framework for genetic optimisation of your Gomoku / Renju program (AI, engine). Together with batch running option of P. Lastovickaâ's Piskvork manager, you can use it to improve your artificial intelligence (AI, engine). Made in Pascal.
+V. Havranekâ's framework for genetic optimisation of your Gomoku / Renju program (AI, engine). Together with batch running option of P. Lastovickaâ's Piskvork manager, you can use it to improve your artificial intelligence (AI, engine). Made in Pascal. Other tags: Five in a Row, Tic Tac Toe, TicTacToe, 5 in a Row, Go-Moku, Connect, Connect5, Connect6, Caro, Noughts and Crosses, AI, engine.
 
 ![Genemix](Genemix.png "Genemix")
 

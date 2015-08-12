@@ -1,6 +1,6 @@
-V. Havranekâ's framework for genetic optimisation of your Gomoku / Renju program (AI, engine). Together with batch running option of P. Lastovickaâ's Piskvork manager, you can use it to improve your artificial intelligence (AI, engine). Made in Pascal. Other tags: Five in a Row, Tic Tac Toe, TicTacToe, 5 in a Row, Go-Moku, Connect, Connect5, Connect6, Caro, Noughts and Crosses, AI, engine.
+V. Havranekâ's framework for genetic optimisation of your Gomoku / Renju program (AI, engine). Together with batch running option of P. Lastovickaâ's Piskvork manager, you can use it to improve your artificial intelligence (AI, engine). Made in Pascal. 
 
-![Genemix](Genemix.png "Genemix")
+![Tags: Five in a Row, Tic Tac Toe, TicTacToe, 5 in a Row, Go-Moku, Connect, Connect5, Connect6, Caro, Noughts and Crosses, Gomoku, Renju, Pente, Piskvork, Amoba, Kółko i Krzyżyk, Gomocup, AI, Engine, Artificial Intelligence, Brain, Pbrain, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding.](Genemix.png "Tags: Five in a Row, Tic Tac Toe, TicTacToe, 5 in a Row, Go-Moku, Connect, Connect5, Connect6, Caro, Noughts and Crosses, Gomoku, Renju, Pente, Piskvork, Amoba, Kółko i Krzyżyk, Gomocup, AI, Engine, Artificial Intelligence, Brain, Pbrain, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding.")
 
 ************************************************************************************************
                                  Readme file for Genemix v 1.0 by Vojtech Havranek
@@ -81,3 +81,5 @@ III) The Program is provided without warranty.
 
 
 Please let me know of any problems you encounter or any suggestions you have. The program is distributed with the source code for Borland Delphi and you're welcome to make any modification in order to make it fit your needs. However, the commentaries of the source code are in Czech language.
+
+Tags: Five in a Row, Tic Tac Toe, TicTacToe, 5 in a Row, Go-Moku, Connect, Connect5, Connect6, Caro, Noughts and Crosses, Gomoku, Renju, Pente, Piskvork, Amoba, Kółko i Krzyżyk, Gomocup, AI, Engine, Artificial Intelligence, Brain, Pbrain, Gra, Game, Source Code Files, Program, Programming, Github, Board, Coding.

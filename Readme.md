@@ -1,4 +1,4 @@
-V. Havranekâ's framework for genetic optimisation of your Gomoku / Renju program (AI, engine). Together with batch running option of P. Lastovickaâ's Piskvork manager, you can use it to improve your artificial intelligence (AI, engine).
+V. Havranekâ's framework for genetic optimisation of your Gomoku / Renju program (AI, engine). Together with batch running option of P. Lastovickaâ's Piskvork manager, you can use it to improve your artificial intelligence (AI, engine). Made in Pascal.
 
 ![Genemix](Genemix.png "Genemix")
 
